@@ -1,2 +1,2 @@
 # Cybersecurity
-tổng hợp docs về các dự án bảo mật bởi Hoàng Đạt
+tổng hợp báo cáo về các dự án nhỏ về bảo mật
